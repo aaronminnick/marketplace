@@ -1,0 +1,25 @@
+/* input {
+  display: inline;
+} */
+
+#colorlabel #nintendolabel {
+  text-align: right;
+}
+
+.card {
+  margin: 3em;
+}
+
+#shipping-profile {
+  margin: auto;
+  padding: 2vw;
+  display: block;
+}
+
+div#receipt {
+  display: none;
+}
+
+#receipt-content {
+  line-height: .5em;
+}
